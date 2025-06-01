@@ -179,7 +179,6 @@ macpst/
 │       ├── converters/    # Format-specific converters
 │       └── utils/         # Utility functions
 ├── tests/                 # Unit and integration tests
-├── docs/                  # Documentation
 ├── requirements.txt       # Python dependencies
 └── setup.py              # Package configuration
 ```
@@ -259,7 +258,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 - **Issues**: Report bugs at [GitHub Issues](https://github.com/yourusername/macpst-converter/issues)
-- **Documentation**: See the `docs/` directory
 - **Contact**: Create an issue for questions and support
 
 ---
